@@ -1,0 +1,1 @@
+# forge-modding-template
